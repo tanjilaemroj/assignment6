@@ -1,0 +1,43 @@
+header,footer{
+    min-height: 100px;
+    background-color: #9FC5F8;
+}
+.common_bg{
+     background-color: #9FC5F8;
+}
+.header_common_style{
+    min-height: 80px;
+    background-color: #CFE2FB;
+    margin: 10px 0;
+}
+.hero_common_style{
+    min-height: 150px;
+    background-color: #CFE2FB;
+    margin: 25px 0;
+}
+.content_common_style{
+     min-height: 450px;
+    background-color: #CFE2FB;
+    margin: 25px 0;
+}
+.content_common_height{
+    min-height: 500px;
+}
+.sidebar_contant {
+    overflow: hidden;
+}
+.sidebar_feature{
+    min-height: 450px;
+    background-color: #CFE2FB;
+    margin: 20px;
+}
+.padding_right_disable{
+    padding-right: 0;
+}
+#hero,#contant,footer{
+    margin: 15px 0;
+}
+.add{
+    background-color: #6FA8DC;
+    min-height: 200px; 
+}
